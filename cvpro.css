@@ -1,0 +1,57 @@
+body{
+    width:800px;
+    margin: auto;
+}
+header{
+	background-color:#808E9B;
+	height: 160px;
+}
+.photo{
+	margin-left:   4%;
+	border-radius: 50%;
+    border: #fff solid 3px;
+	overflow:hidden;
+	width: 150px;
+	height: 150px;
+}
+    .des{
+        margin-left:35%;
+        margin-top:-21%;
+    
+        
+    }
+    .container {
+       width:au;
+       margin: auto;
+       border-right: solid #808E9B;
+       border-bottom: solid #455060;
+    }
+    .gauche{
+        background-color:#455060;
+        padding-left: 3%;
+        margin-top: -0.1%;
+        padding-top: 1%;
+        color: #fff;
+        width: 30%;
+    }
+    .droite{
+
+        margin-top: -83%;
+        margin-left:35%;
+        height: 642px;
+       
+    }
+    .d-flex{
+        display: flex;
+        align-items: center;
+    }
+    .d-flex span{
+        margin-left: 5px;
+    }
+    .icones{
+        display:grid;
+        grid-template-columns:auto  ;
+        text-align: center;
+        margin-left: 10px;
+    }
+   
